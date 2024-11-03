@@ -1,4 +1,4 @@
-const apiBaseUrl = 'http://rtx4090b.cse.iitd.ac.in:8000/api/v1';
+const apiBaseUrl = 'http://rtx4090b.cse.iitd.ac.in/api/v1';
 // apiBaseUrl = 'http://10.184.164.236:8000/api/v1';
 // const apiBaseUrl = 'http://10.194.167.60:8000/api/v1';
 
